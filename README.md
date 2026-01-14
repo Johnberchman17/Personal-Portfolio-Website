@@ -1,2 +1,2 @@
-# Personal-Portfolio-Website
-Personal Portfolio Website (FreeCodeCamp Project)
+# Personal-Portfolio-Webpage
+Personal Portfolio Webpage (FreeCodeCamp Project)
